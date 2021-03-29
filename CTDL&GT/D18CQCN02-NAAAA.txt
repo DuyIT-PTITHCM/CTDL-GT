@@ -1,0 +1,28 @@
+1,Nghuyen Van Mot,AAAA,1,1,1,1
+10,Muoi Ne,AAAA,1,1,1,1
+11,Muoi Mot Ne,AAAA,5,5,5,5
+12,Muoi Hai Ne,AAAA,6,6,6,6
+13,Muoi Ba Ne,AAAA,7,7,7,7
+14,Muoi Bon Ne,AAAA,8,8,8,8
+15,Muoi Nam Ne,AAAA,9,9,9,9
+16,Muoi Sau Ne,AAAA,10,10,10,10
+17,Muoi Bay Ne,AAAA,0,0,0,0
+18,Muoi Tam Ne,AAAA,0,0,0,0
+19,Muoi Chin Ne,AAAA,0,0,0,0
+2,Haine,AAAA,0,0,0,0
+3,Ba Ne,AAAA,0,0,0,0
+4,Ne,AAAA,0,0,0,0
+5,Ne,AAAA,0,0,0,0
+6,Sau Ne,AAAA,0,0,0,0
+8,Tam Ne,AAAA,0,0,0,0
+9,Chin Ne,AAAA,0,0,0,0
+CFVGBHJ,Xdcfgvhbj,AAAA,0,0,0,0
+DTFVYGBH,Xdcfvgbh,AAAA,0,0,0,0
+DXCFVHBJ,Nguyen Van Dong,AAAA,0,0,0,0
+HASDJ,Nguyen Van Vu,AAAA,0,0,0,0
+N18DCCN0123,Nguyen Van Hai,AAAA,0,0,0,0
+N18DCCN02,Ad,AAAA,0,0,0,0
+N18DCCN026,Duong Quoc Bao,AAAA,0,0,0,0
+N18DCCN027,Nguyen The Duy,AAAA,0,0,0,0
+N18DCCN029,Nguyen Anh Duy,AAAA,0,0,0,0
+XDFCGVBH,Xdcfvgbh,AAAA,1,1,1,1
